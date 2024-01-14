@@ -1,0 +1,9 @@
+#copy_footter {
+    line-height: 3;
+    width: 100%;
+    background-color: grey;
+    bottom: 0;
+    text-align: center;
+    position: fixed;
+    color: antiquewhite;
+}
